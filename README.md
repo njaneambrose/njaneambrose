@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @njaneambrose from Kenya, Africa, Earth
-- 👀 I’m interested in Deep learning ,Machine Learning, New web techonlogies and Web based applications
-- 🌱 I’m currently learning Vue, DL, ML and any new web technologies 
-- 💞️ I’m looking to collaborate on web applications(Node.js based or SPAs) and {DL,ML} projects  
+- 👋 Hi, I’m @njaneambrose from Nairobi, Kenya, Africa, Earth
+- 👀 I’m interested in Deep learning ,Machine Learning, New technologies and Web based applications
+- 💞️ I contribute to projects dealing with Web applications, Deep & Machine learning 
 - 📫 How to reach me njaneambrose@gmail.com
 
 <!---
