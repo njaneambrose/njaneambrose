@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @njaneambrose from Nairobi, Kenya, Africa, Earth
-- 👀 I’m interested in Deep learning ,Machine Learning, New technologies and Web based applications
-- 💞️ I contribute to projects dealing with Web applications, Deep & Machine learning 
+- 👋 Hi, I’m @njaneambrose from Nairobi, Kenya, Africa, Earth.
+- 👀 I’m interested in Data Science, Web technologies and Computer Hardware especially PC building.
+- 💞️ I contribute to Data Science and Web based projects.
 - 📫 How to reach me njaneambrose@gmail.com
 
 <!---
